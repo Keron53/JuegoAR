@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="musica" size="2.000000 2.000000" />
+    <ImageTarget name="pintura" size="2.000000 2.000000" />
+    <ImageTarget name="poesia" size="2.000000 2.000000" />
+    <ImageTarget name="fuego" size="2.000000 2.000000" />
+    <ImageTarget name="volcan" size="2.000000 2.000000" />
+    <ImageTarget name="sol" size="2.000000 2.000000" />
+    <ImageTarget name="manzanas_verdes" size="2.000000 2.000000" />
+    <ImageTarget name="hojas" size="2.000000 2.000000" />
+    <ImageTarget name="dinero" size="2.000000 2.000000" />
+  </Tracking>
+</QCARConfig>
